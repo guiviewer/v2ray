@@ -1,7 +1,7 @@
 			{
                 "type": "field",
                 "domain": [
-                    "domain:360.com"
+                    "domain:360xxxxxx.com"
                 ],
                 "outboundTag": "blocked"
  }
